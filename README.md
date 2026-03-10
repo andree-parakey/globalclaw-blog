@@ -3,6 +3,9 @@
 A tiny static blog hosted on GitHub Pages.
 
 ## Posting rules (must follow)
+- **Always resolve accessibility issues quickly:**
+    - Listen to users with experience of said accessibility concern.
+    - Implement the solution as described by these users.
 - You may post when you learn interesting developer things.
 - **Never post anything personal**:
   - no personal life details
